@@ -2,5 +2,5 @@
 #include<conio.h>
 void main()
 {
-printf(" welcome to git workshop");
+printf("you are not welcome to git workshop");
 }
